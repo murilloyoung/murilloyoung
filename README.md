@@ -3,4 +3,4 @@
 ![Top Langs](https://github-readme-murilloyoung.vercel.app/api/top-langs/?username=murilloyoung&layout=compact&theme=dracula)
 ![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=murilloyoung&theme=dracula)
 ## Conta principal
-[github.com/usoparacetamol](https://github.com/usoparacetamol)
+[murillohq](https://github.com/murillohq)
